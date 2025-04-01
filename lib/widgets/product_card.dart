@@ -52,7 +52,7 @@ class _ProductCardState extends State<ProductCard> {
                     borderRadius: const BorderRadius.vertical(
                       top: Radius.circular(15),
                     ),
-                    child: Image.network(
+                    child: Image.asset(
                       widget.product.imageUrl,
                       fit: BoxFit.cover,
                       width: double.infinity,
