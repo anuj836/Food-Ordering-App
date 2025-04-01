@@ -23,4 +23,11 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/
+    - assets/images/categories/burgers.jpg
+    - assets/images/categories/pizzas.jpg
+    - assets/images/categories/sushi.jpg
+    - assets/images/categories/desserts.jpg
+    - assets/images/products/burger1.jpg
+    - assets/images/products/burger2.jpg
+    - assets/images/products/pizza1.jpg
+    - assets/images/products/pizza2.jpg
