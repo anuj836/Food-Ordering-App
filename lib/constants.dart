@@ -7,21 +7,21 @@ const Color kBackgroundColor = Color(0xFFF5F5F5);
 const Color kTextColor = Color(0xFF212121);
 const Color kTextLightColor = Color(0xFF757575);
 
-// Pexels Image URLs
-const String kHeroImageUrl = 'https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg';
-const String kBurgerCategoryImage = 'https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg';
-const String kPizzaCategoryImage = 'https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg';
-const String kSushiCategoryImage = 'https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg';
-const String kDessertCategoryImage = 'https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg';
+// Local Image Assets
+const String kHeroImage = 'assets/images/categories/burgers.jpg';
+const String kBurgerCategoryImage = 'assets/images/categories/burgers.jpg';
+const String kPizzaCategoryImage = 'assets/images/categories/pizzas.jpg';
+const String kSushiCategoryImage = 'assets/images/categories/sushi.jpg';
+const String kDessertCategoryImage = 'assets/images/categories/desserts.jpg';
 
 // Product Images
 const List<String> kBurgerImages = [
-  'https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg',
-  'https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg',
+  'assets/images/products/burger1.jpg',
+  'assets/images/products/burger2.jpg',
 ];
 const List<String> kPizzaImages = [
-  'https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg',
-  'https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg',
+  'assets/images/products/pizza1.jpg',
+  'assets/images/products/pizza2.jpg',
 ];
 
 // Text Styles
